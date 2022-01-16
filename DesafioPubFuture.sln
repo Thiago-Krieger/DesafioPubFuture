@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioPubFuture", "DesafioPubFuture.csproj", "{6BF34CB2-3288-428B-A5BE-BFF97B171F1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financas.Dominio", "..\Financas.Dominio\Financas.Dominio.csproj", "{F3213F2E-B70A-4F2D-A229-C25B35B83926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financas.Repositorio", "..\Financas.Repositorio\Financas.Repositorio.csproj", "{D8DFD482-BFBB-4100-8F5B-9B2BEDC292B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6BF34CB2-3288-428B-A5BE-BFF97B171F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BF34CB2-3288-428B-A5BE-BFF97B171F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BF34CB2-3288-428B-A5BE-BFF97B171F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3213F2E-B70A-4F2D-A229-C25B35B83926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3213F2E-B70A-4F2D-A229-C25B35B83926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3213F2E-B70A-4F2D-A229-C25B35B83926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3213F2E-B70A-4F2D-A229-C25B35B83926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8DFD482-BFBB-4100-8F5B-9B2BEDC292B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8DFD482-BFBB-4100-8F5B-9B2BEDC292B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8DFD482-BFBB-4100-8F5B-9B2BEDC292B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8DFD482-BFBB-4100-8F5B-9B2BEDC292B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
